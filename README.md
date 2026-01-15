@@ -10,5 +10,5 @@ it as a template in your own account. DO NOT clone and attempt to push any chang
 You must work on your own copy of the project
 
 ## Prerequisites
-- .NET 9
+- .NET 10
 - Visual Studio Community
